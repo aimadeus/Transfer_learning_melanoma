@@ -1,1 +1,8 @@
 .idea
+melanoma-external-malignant-256
+siim-melanoma-prep-data
+logs*
+preds*
+input
+working
+.DS_Store
